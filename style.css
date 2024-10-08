@@ -1,0 +1,7 @@
+.navbar {
+    background-image: linear-gradient(to bottom,rgba(9,29,86,1) 0,rgba(9,29,86,.5) 60%,rgba(9,29,86,0) 100%);
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
